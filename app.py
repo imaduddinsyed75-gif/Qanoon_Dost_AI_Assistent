@@ -27,233 +27,219 @@ st.set_page_config(
 )
 
 # ─────────────────────────────────────────────────────────────────────────────
-# CSS & THEME STYLING (DARK/LIGHT MODE RESILIENT)
+# ADAPTIVE THEME CSS (LIGHT, DARK & SYSTEM RESILIENT)
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown(
     """
     <style>
-    :root {
-        --bg: #f8fafc;
-        --panel: #ffffff;
-        --navy-900: #0d1b2a;
-        --navy-800: #12263d;
-        --blue-600: #1d73c9;
-        --blue-500: #2563eb;
-        --cyan-400: #6ad4ff;
-        --sky-100: #eff7ff;
-        --slate-200: #e2e8f0;
-        --slate-600: #475569;
-        --text-dark: #0f172a;
-        --shadow: 0 12px 32px rgba(11, 30, 48, 0.08);
-        --composer-height: 4.2rem;
-        --composer-gap: 1rem;
-    }
-
-    /* Overall Page */
-    .stApp {
-        background-color: var(--bg);
-    }
-
-    *, *::before, *::after {
-        box-sizing: border-box;
+    /* 1. Global Font & Reset */
+    * {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
 
     [data-testid="stHeader"] {
         background: transparent !important;
-        box-shadow: none;
     }
 
-    /* Sidebar Styling */
+    /* 2. SIDEBAR UNIVERSAL CONTRAST (Works in both Dark & Light themes) */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #0d1b2a 0%, #12263d 100%) !important;
-        border-right: 1px solid rgba(138, 164, 189, 0.18);
+        background: #0f172a !important;
+        border-right: 1px solid #334155 !important;
     }
 
     [data-testid="stSidebar"] * {
-        color: #edf5ff !important;
+        color: #f8fafc !important;
     }
 
+    /* Sidebar Brand Box */
     .brand-box {
-        background: rgba(255,255,255,0.06);
-        border: 1px solid rgba(141, 182, 218, 0.22);
-        border-radius: 16px;
+        background: #1e293b !important;
+        border: 1px solid #334155 !important;
+        border-radius: 14px;
         padding: 1.1rem;
         margin-bottom: 1rem;
     }
-
     .brand-box .brand-name {
         font-weight: 800;
         font-size: 1.25rem;
-        color: #ffffff !important;
-        letter-spacing: -0.01em;
+        color: #38bdf8 !important;
     }
-
     .brand-box .brand-tag {
-        color: rgba(237, 245, 255, 0.85) !important;
-        font-size: 0.82rem;
-        margin-top: 0.25rem;
-        line-height: 1.4;
+        color: #cbd5e1 !important;
+        font-size: 0.8rem;
+        margin-top: 0.2rem;
     }
 
-    /* Hero Banner */
+    /* Sidebar Buttons (Fixing Invisible/White Boxes) */
+    [data-testid="stSidebar"] button {
+        background-color: #1e293b !important;
+        color: #f8fafc !important;
+        border: 1px solid #475569 !important;
+        border-radius: 10px !important;
+        font-weight: 500 !important;
+        transition: all 0.2s ease !important;
+    }
+
+    [data-testid="stSidebar"] button:hover {
+        background-color: #0284c7 !important;
+        border-color: #38bdf8 !important;
+        color: #ffffff !important;
+        box-shadow: 0 4px 12px rgba(2, 132, 199, 0.25) !important;
+    }
+
+    [data-testid="stSidebar"] button p {
+        color: inherit !important;
+    }
+
+    /* 3. HERO BANNER */
     .hero {
-        border-radius: 20px;
-        background: linear-gradient(135deg, #0d1b2a 0%, #1e3a8a 60%, #0284c7 100%);
-        padding: 1.35rem 1.75rem;
-        margin-bottom: 0.75rem;
-        box-shadow: 0 10px 25px rgba(13, 27, 42, 0.12);
-        color: white !important;
+        border-radius: 18px;
+        background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 60%, #0369a1 100%) !important;
+        padding: 1.4rem 1.6rem;
+        margin-bottom: 1rem;
+        box-shadow: 0 8px 24px rgba(15, 23, 42, 0.15);
     }
-
     .hero h1 {
         margin: 0;
-        font-size: clamp(1.8rem, 2.4vw, 2.3rem);
         color: #ffffff !important;
         font-weight: 800;
+        font-size: clamp(1.7rem, 2.2vw, 2.2rem);
     }
-
     .hero p {
-        margin: 0.4rem 0 0;
+        margin: 0.35rem 0 0.8rem;
         color: #e0f2fe !important;
         font-size: 0.95rem;
     }
-
     .pillar-tags {
         display: flex;
         flex-wrap: wrap;
         gap: 0.4rem;
-        margin-top: 0.8rem;
     }
-
     .pillar-tag {
-        background: rgba(255, 255, 255, 0.15);
-        backdrop-filter: blur(8px);
-        border: 1px solid rgba(255, 255, 255, 0.25);
+        background: rgba(255, 255, 255, 0.18) !important;
+        border: 1px solid rgba(255, 255, 255, 0.25) !important;
         color: #ffffff !important;
-        padding: 0.25rem 0.65rem;
+        padding: 0.2rem 0.65rem;
         border-radius: 20px;
-        font-size: 0.76rem;
+        font-size: 0.78rem;
         font-weight: 600;
     }
 
-    /* Chat Panel & Bubbles - DARK MODE PROTECTION FIX */
+    /* 4. CHAT BUBBLES: FULL CONTRAST SAFEGUARD */
     [class*="st-key-chat-panel"] {
-        padding: 0.8rem;
-        padding-bottom: calc(var(--composer-height) + var(--composer-gap));
-        width: 100%;
+        padding: 0.5rem 0.5rem 6.5rem 0.5rem !important; /* Prevents input overlap */
     }
 
-    /* User Chat Bubble */
+    /* User Chat Bubble (High-contrast Blue) */
     [class*="st-key-chat-bubble-user-"] {
-        background: linear-gradient(135deg, #1d4ed8, #2563eb) !important;
-        border-radius: 18px 18px 4px 18px !important;
-        padding: 1rem 1.2rem !important;
-        box-shadow: 0 6px 16px rgba(37, 99, 235, 0.18) !important;
+        background: #0284c7 !important;
+        border-radius: 16px 16px 4px 16px !important;
+        padding: 1rem 1.25rem !important;
+        margin-bottom: 0.5rem;
+        box-shadow: 0 4px 14px rgba(2, 132, 199, 0.2) !important;
     }
-
-    [class*="st-key-chat-bubble-user-"] *,
-    [class*="st-key-chat-bubble-user-"] p {
+    [class*="st-key-chat-bubble-user-"] * {
         color: #ffffff !important;
-        margin: 0;
         font-size: 0.98rem;
         line-height: 1.6;
     }
 
-    /* Assistant Chat Bubble - FORCE HIGH CONTRAST IN DARK MODE */
+    /* Assistant Chat Bubble (Card styling with dark text) */
     [class*="st-key-chat-bubble-assistant-"] {
-        background: #ffffff !important;
+        background: #f8fafc !important;
         border: 1px solid #cbd5e1 !important;
-        border-radius: 18px 18px 18px 4px !important;
-        padding: 1.15rem 1.25rem !important;
-        box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06) !important;
+        border-radius: 16px 16px 16px 4px !important;
+        padding: 1.2rem 1.3rem !important;
+        margin-bottom: 0.5rem;
+        box-shadow: 0 4px 16px rgba(15, 23, 42, 0.05) !important;
     }
 
-    [class*="st-key-chat-bubble-assistant-"] *,
-    [class*="st-key-chat-bubble-assistant-"] p,
-    [class*="st-key-chat-bubble-assistant-"] li,
-    [class*="st-key-chat-bubble-assistant-"] strong,
-    [class*="st-key-chat-bubble-assistant-"] h1,
-    [class*="st-key-chat-bubble-assistant-"] h2,
-    [class*="st-key-chat-bubble-assistant-"] h3,
-    [class*="st-key-chat-bubble-assistant-"] code {
+    /* Force all text inside assistant bubble to be deep charcoal */
+    [class*="st-key-chat-bubble-assistant-"] * {
         color: #0f172a !important;
+        font-size: 0.98rem;
         line-height: 1.65;
     }
 
-    /* Source Citation Cards */
+    /* Sources / Citations Card */
     .source-card {
-        background: #f8fafc !important;
-        border: 1px solid #cbd5e1 !important;
-        border-left: 4px solid #2563eb !important;
+        background: #ffffff !important;
+        border: 1px solid #e2e8f0 !important;
+        border-left: 4px solid #0284c7 !important;
         border-radius: 10px;
-        padding: 0.75rem 0.9rem;
-        margin: 0.4rem 0;
+        padding: 0.75rem 1rem;
+        margin: 0.35rem 0;
     }
-
     .source-card strong {
         color: #0f172a !important;
-        display: block;
         font-size: 0.9rem;
     }
-
     .source-card small {
-        color: #475569 !important;
+        color: #64748b !important;
         font-size: 0.8rem;
     }
 
-    /* Fixed Floating Composer */
+    /* 5. FLOATING BOTTOM COMPOSER */
     [class*="st-key-legal-chat-composer"] {
         position: fixed;
-        bottom: 1rem;
+        bottom: 0.75rem;
         z-index: 9999;
         left: calc(18rem + 1.2rem);
         right: 1.5rem;
         max-width: calc(100% - (18rem + 2.7rem));
-        padding: 0.4rem;
-        background: rgba(255, 255, 255, 0.92);
-        border: 1px solid #cbd5e1;
+        padding: 0.45rem;
+        background: #0f172a !important;
+        border: 1px solid #334155;
         border-radius: 18px;
-        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
-        backdrop-filter: blur(12px);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     }
 
-    /* Text Input */
+    /* Text Input inside Composer */
     [class*="st-key-law_questions_form"] [data-testid="stTextInput"] input {
-        background: #ffffff !important;
-        color: #0f172a !important;
-        border: 1px solid #94a3b8 !important;
+        background: #1e293b !important;
+        color: #ffffff !important;
+        border: 1px solid #475569 !important;
         border-radius: 12px !important;
+        height: 2.8rem !important;
     }
-
     [class*="st-key-law_questions_form"] [data-testid="stTextInput"] input::placeholder {
-        color: #64748b !important;
+        color: #94a3b8 !important;
     }
 
-    /* Action & Suggestion Buttons */
+    /* Send Button */
+    [class*="st-key-law_questions_form"] button {
+        background-color: #0284c7 !important;
+        color: #ffffff !important;
+        border: none !important;
+        border-radius: 12px !important;
+        height: 2.8rem !important;
+        font-weight: 600 !important;
+    }
+    [class*="st-key-law_questions_form"] button:hover {
+        background-color: #0369a1 !important;
+    }
+
+    /* Suggestion Chips */
     [class*="st-key-empty-state-suggestions"] button {
-        background: #ffffff !important;
+        background: #f8fafc !important;
         border: 1px solid #cbd5e1 !important;
         border-radius: 12px !important;
         color: #0f172a !important;
         font-weight: 500 !important;
-        padding: 0.6rem 0.8rem !important;
-        transition: all 0.2s ease !important;
+        padding: 0.7rem 0.9rem !important;
     }
-
     [class*="st-key-empty-state-suggestions"] button:hover {
-        background: #eff6ff !important;
-        border-color: #3b82f6 !important;
-        color: #1d4ed8 !important;
-        transform: translateY(-2px);
+        background: #e0f2fe !important;
+        border-color: #0284c7 !important;
+        color: #0369a1 !important;
     }
 
-    /* Responsive adjustments */
     @media (max-width: 768px) {
         [class*="st-key-legal-chat-composer"] {
-            left: 1rem !important;
-            right: 1rem !important;
-            max-width: calc(100% - 2rem) !important;
-            bottom: 0.6rem !important;
+            left: 0.75rem !important;
+            right: 0.75rem !important;
+            max-width: calc(100% - 1.5rem) !important;
+            bottom: 0.5rem !important;
         }
     }
     </style>
@@ -270,7 +256,6 @@ def init_state():
         "chat_sessions": OrderedDict(),
         "active_chat_id": None,
         "chat_sessions_loaded": False,
-        "delete_popover_versions": {},
         "enable_web_search": False,
     }
     for key, value in defaults.items():
@@ -319,8 +304,6 @@ def delete_chat_session(chat_id):
         return
     del st.session_state.chat_sessions[chat_id]
     delete_conversation(chat_id)
-    st.session_state.delete_popover_versions.pop(chat_id, None)
-
     if st.session_state.active_chat_id == chat_id:
         if st.session_state.chat_sessions:
             st.session_state.active_chat_id = next(
@@ -338,9 +321,9 @@ def get_real_conversations():
     ]
 
 
-def update_session_title(chat_id, title_text):
+def update_session_title(chat_id):
     session = st.session_state.chat_sessions.get(chat_id)
-    if session is None or not session["messages"]:
+    if not session or not session["messages"]:
         return
     if session.get("title") not in (None, "", "New Consultation"):
         return
@@ -350,10 +333,10 @@ def update_session_title(chat_id, title_text):
         )
         cleaned = " ".join(first_user["content"].split())
         session["title"] = (
-            (cleaned[:28] + "...") if len(cleaned) > 28 else cleaned
+            (cleaned[:26] + "...") if len(cleaned) > 26 else cleaned
         )
     except StopIteration:
-        session["title"] = title_text or "Legal Query"
+        session["title"] = "Legal Query"
 
 
 def add_message(
@@ -379,7 +362,7 @@ def add_message(
     }
     st.session_state.chat_sessions[chat_id]["messages"].append(message)
     if role == "user":
-        update_session_title(chat_id, None)
+        update_session_title(chat_id)
     save_conversation(chat_id, st.session_state.chat_sessions[chat_id])
 
 
@@ -394,33 +377,31 @@ def export_active_conversation():
     messages = get_active_messages()
     if not messages:
         return ""
-    text_export = "# Qanoon Dost AI - Legal Consultation Export\n\n"
+    text_export = "# Qanoon Dost AI - Legal Advisory Summary\n\n"
     for msg in messages:
-        role = "Citizen" if msg["role"] == "user" else "Qanoon Dost AI"
+        role = "Citizen Query" if msg["role"] == "user" else "Legal Response"
         text_export += f"### {role}:\n{msg['content']}\n\n"
         if msg.get("sources"):
-            text_export += "**Cited Authorities:**\n"
+            text_export += "**Statutory References:**\n"
             for s in msg["sources"]:
-                text_export += (
-                    f"- {s.get('law_name')} (Page {s.get('page_start')})\n"
-                )
+                text_export += f"- {s.get('law_name')} (Page {s.get('page_start', 'N/A')})\n"
             text_export += "\n"
-    text_export += "---\n*Disclaimer: For informational guidance only. Not official legal counsel.*"
+    text_export += "---\n*Generated by Qanoon Dost AI (informational guidance only)*"
     return text_export
 
 
 def render_sources(sources):
     if not sources:
         return
-    with st.expander(f"📑 Legal Citations ({len(sources)} Verified Authorities)"):
+    with st.expander(f"📑 Legal Citations ({len(sources)} Authorities)"):
         for source in sources:
             pages = source.get("page_start", "N/A")
             if source.get("page_end") and source["page_end"] != pages:
                 pages = f"{pages}-{source['page_end']}"
             st.markdown(
                 f'<div class="source-card">'
-                f'<strong>⚖️ {source.get("law_name", "Statutory Act")}</strong>'
-                f"<small>Official Statute Reference · Page {pages}</small>"
+                f'<strong>⚖️ {source.get("law_name", "Statute")}</strong>'
+                f"<small>Statutory Reference · Page {pages}</small>"
                 f"</div>",
                 unsafe_allow_html=True,
             )
@@ -436,12 +417,10 @@ def render_message(message, message_index):
             with st.container(key=f"chat-bubble-assistant-{message_index}"):
                 st.markdown(message["content"])
             if message.get("web_search_used"):
-                st.caption(
-                    "🌐 Verified via Live Legal Web Search · Tavily Grounded"
-                )
+                st.caption("🌐 Verified via Live Search · Tavily")
             elif message.get("provider_used"):
                 st.caption(
-                    f"⚡ Verified via {message['provider_used'].upper()} RAG Engine · Grounded Pakistani Law"
+                    f"⚡ Verified via {message['provider_used'].upper()} RAG Engine"
                 )
             render_sources(message.get("sources", []))
 
@@ -453,7 +432,7 @@ def handle_legal_question(question, language):
         return
 
     add_message("user", question)
-    with st.spinner("Searching Pakistani statutes & generating legal opinion..."):
+    with st.spinner("Searching Pakistani statutes..."):
         try:
             result = get_legal_answer(
                 question,
@@ -478,12 +457,11 @@ def handle_legal_question(question, language):
                 web_search_used=web_used,
             )
         except Exception as e:
-            logger.exception("Error answering legal question: %s", e)
-            error_message = (
-                "I couldn't complete that answer because the AI legal service "
-                "is momentarily unavailable. Please check your query or retry."
+            logger.exception("Error answering question: %s", e)
+            add_message(
+                "assistant",
+                "Service momentarily unavailable. Please check your query or retry.",
             )
-            add_message("assistant", error_message)
 
 
 def set_question_from_example(question):
@@ -507,23 +485,23 @@ def get_document_options(documents):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# APP LAYOUT & LOGIC
+# APPLICATION UI
 # ─────────────────────────────────────────────────────────────────────────────
 init_state()
 
-# Top Hero Header with Legal Pillars
+# Top Hero Header
 with st.container():
     st.markdown(
         """
         <div class="hero">
             <h1>⚖️ Qanoon Dost AI (قانون دوست)</h1>
-            <p>AI-Powered Legal Rights Assistant Grounded in Pakistani Civil & Statutory Law.</p>
+            <p>Pakistan's AI Legal Rights Assistant · Grounded in Official Statutes</p>
             <div class="pillar-tags">
-                <span class="pillar-tag">🏠 Tenant & Rent Laws</span>
-                <span class="pillar-tag">👨‍👩‍👧 Family & Custody</span>
-                <span class="pillar-tag">💼 Labor & Wages</span>
-                <span class="pillar-tag">🛒 Consumer Rights</span>
-                <span class="pillar-tag">📜 CrPC & Police</span>
+                <span class="pillar-tag">🏠 Tenant Rights</span>
+                <span class="pillar-tag">👨‍👩‍👧 Family Laws</span>
+                <span class="pillar-tag">💼 Labor & Minimum Wage</span>
+                <span class="pillar-tag">🛒 Consumer Courts</span>
+                <span class="pillar-tag">📜 CrPC & Police Rights</span>
             </div>
         </div>
         """,
@@ -536,7 +514,7 @@ with st.sidebar:
         """
         <div class="brand-box">
             <div class="brand-name">⚖️ Qanoon Dost AI</div>
-            <div class="brand-tag">Making Pakistani law understandable & accessible to every citizen.</div>
+            <div class="brand-tag">Access to justice for 220M+ Pakistani citizens.</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -552,7 +530,7 @@ with st.sidebar:
     if active_msgs:
         chat_markdown = export_active_conversation()
         st.download_button(
-            label="📥 Export This Chat",
+            label="📥 Export Consultation",
             data=chat_markdown,
             file_name="Qanoon_Dost_Legal_Advice.md",
             mime="text/markdown",
@@ -563,23 +541,20 @@ with st.sidebar:
     st.caption("Recent Consultations")
     recent_conversations = get_real_conversations()
     for chat_id, conv in recent_conversations:
-        with st.container():
-            col1, col2 = st.columns([4, 1])
-            with col1:
-                if st.button(
-                    conv["title"],
-                    key=f"chat_{chat_id}",
-                    use_container_width=True,
-                ):
-                    mark_chat_active(chat_id)
-                    st.rerun()
-            with col2:
-                if st.button("🗑️", key=f"del_{chat_id}", help="Delete chat"):
-                    delete_chat_session(chat_id)
-                    st.rerun()
+        col1, col2 = st.columns([4, 1])
+        with col1:
+            if st.button(
+                conv["title"], key=f"chat_{chat_id}", use_container_width=True
+            ):
+                mark_chat_active(chat_id)
+                st.rerun()
+        with col2:
+            if st.button("🗑️", key=f"del_{chat_id}", help="Delete chat"):
+                delete_chat_session(chat_id)
+                st.rerun()
 
     st.markdown("---")
-    st.subheader("⚙️ Settings")
+    st.caption("Settings")
     st.session_state.language = st.selectbox(
         "Response Language",
         options=["roman_urdu", "english", "urdu"],
@@ -596,19 +571,19 @@ with st.sidebar:
     st.session_state.enable_web_search = st.toggle(
         "🌐 Live Web Search",
         value=st.session_state.get("enable_web_search", False),
-        help="Fallback to live web retrieval (Tavily) when local legal statutes do not contain the answer.",
+        help="Search web when local legal knowledge base confidence is low.",
     )
 
     st.markdown(
         """
-        <div style="font-size:0.75rem; color:#94a3b8; margin-top:1rem; padding:0.6rem; border:1px solid rgba(255,255,255,0.1); border-radius:8px;">
-        ⚠️ <strong>Disclaimer:</strong> This application provides statutory informational guidance and does not replace formal legal counsel.
+        <div style="font-size:0.75rem; color:#94a3b8; margin-top:1rem; padding:0.6rem; border:1px solid #334155; border-radius:8px;">
+        ⚠️ <strong>Notice:</strong> Statutory guidance only; consult a licensed advocate for legal proceedings.
         </div>
         """,
         unsafe_allow_html=True,
     )
 
-# Main Workspace Tabs
+# Main Navigation
 tab_laws, tab_upload = st.tabs(
     ["💬 Pakistani Law Chat", "📄 Private PDF Analysis"]
 )
@@ -621,12 +596,11 @@ with tab_laws:
             for i, msg in enumerate(chat_messages):
                 render_message(msg, i)
     else:
-        # High-impact Empty State with Quick Question Chips
         st.markdown(
             """
             <div style="text-align:center; padding: 2rem 1rem;">
-                <h2 style="color:#0f172a; margin-bottom:0.25rem;">How can Qanoon Dost assist you today?</h2>
-                <p style="color:#64748b;">Select an everyday civil law query below or type your custom situation.</p>
+                <h3 style="margin-bottom:0.25rem;">How can Qanoon Dost assist you today?</h3>
+                <p style="color:#64748b;">Select an everyday scenario below or type your situation:</p>
             </div>
             """,
             unsafe_allow_html=True,
@@ -661,7 +635,7 @@ with tab_laws:
                     use_container_width=True,
                 )
                 st.button(
-                    "👨‍👩‍👧 Khula aur child custody (hizanat) ke legal rules?",
+                    "👨‍👩‍👧 Khula aur child custody (hizanat) ke rules?",
                     on_click=set_question_from_example,
                     args=(
                         "Khula lene ka legal procedure aur bache ki custody (hizanat) mother ko kab tak milti hai?",
@@ -669,7 +643,7 @@ with tab_laws:
                     use_container_width=True,
                 )
 
-    # Fixed Floating Bottom Input Form
+    # Bottom Fixed Input Form
     with st.container(key="legal-chat-composer"):
         with st.form("law_questions_form", clear_on_submit=True):
             cols = st.columns([5, 1])
@@ -682,7 +656,7 @@ with tab_laws:
                 )
             with cols[1]:
                 send_pressed = st.form_submit_button(
-                    "Send ⚖️", use_container_width=True, type="primary"
+                    "Send ⚖️", use_container_width=True
                 )
 
     if send_pressed and q_input.strip():
@@ -690,21 +664,20 @@ with tab_laws:
         st.rerun()
 
 with tab_upload:
-    st.subheader("📄 Analyze Your Tenancy Contract or Legal Notice")
+    st.subheader("📄 Analyze Tenancy Agreement or Legal Notice")
     st.caption(
-        "Upload text-based PDF documents (Tenancy agreements, Employment contracts, Legal notices) for confidential, in-memory analysis."
+        "Upload PDF documents for confidential, session-only legal analysis."
     )
 
     uploads = st.file_uploader(
         "Upload PDF document",
         type=["pdf"],
         accept_multiple_files=True,
-        help="Files are processed strictly in RAM and never saved to the global database.",
     )
 
     if uploads:
         if st.session_state.document_model is None:
-            with st.spinner("Initializing neural document parser..."):
+            with st.spinner("Initializing parser..."):
                 st.session_state.document_model = load_embedding_model()
 
         for upload in uploads:
@@ -737,12 +710,12 @@ with tab_upload:
                 with p_cols[0]:
                     pdf_q = st.text_input(
                         "Question about this document",
-                        placeholder="What does this contract say about security deposit or notice periods?",
+                        placeholder="What does this contract say about security deposit?",
                         label_visibility="collapsed",
                     )
                 with p_cols[1]:
                     pdf_btn = st.form_submit_button(
-                        "Analyze 📄", use_container_width=True, type="primary"
+                        "Analyze 📄", use_container_width=True
                     )
 
             if pdf_btn and pdf_q.strip():
@@ -755,7 +728,7 @@ with tab_upload:
                             language=st.session_state.language,
                             top_k=DOCUMENT_TOP_K,
                         )
-                        st.markdown("### 📋 Contractual Analysis")
+                        st.markdown("### 📋 Contract Analysis Result")
                         st.write(res["answer"])
                         if res.get("sources"):
                             render_sources(res["sources"])
