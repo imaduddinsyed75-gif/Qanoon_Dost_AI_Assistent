@@ -1,0 +1,501 @@
+--- PAGE 1 ---
+
+THE PUNJAB RENTED PREMISES ACT 2009
+(VII of 2009)
+CONTENTS
+CHAPTER I
+PRELIMINARY
+1. Short title, extent and commencement
+2. Definitions
+3. Exemption
+4. Act to override other laws
+CHAPTER II
+CREATION OF TENANCY
+5. Agreement between landlord and tenant
+6. Contents of tenancy agreement
+7. Payment of rent
+8. Existing tenancy
+9. Effect of non-compliance
+10. Effect of other agreement
+CHAPTER III
+OBLIGATIONS OF THE PARTIES AND
+GROUNDS FOR EVICTION
+11. Subletting
+12. Obligations of landlord
+13. Obligations of tenant
+14. Reimbursement of expenses
+15. Grounds for eviction
+CHAPTER IV
+ESTABLISHMENT OF RENT TRIBUNAL
+AND PROCEDURE
+16. Establishment of Rent Tribunal
+
+--- PAGE 2 ---
+
+17. Rent Registrar
+18. Staff and establishment
+19. Filing of application
+20. Application for deposit of rent
+21. Appearance of parties and consequences of non-appearance
+22. Leave to contest
+23. Written reply
+24. Payment of rent and other dues pending proceedings
+25. Recording of evidence
+26. Rent Tribunal to exercise powers of Civil Court
+27. Period for disposal of application
+28. Appeal
+CHAPTER V
+MISCELLANEOUS
+29. General power of transfer
+30. Transfer of ownership
+31. Execution of orders
+32. Indemnity
+33. Power to make rules
+34. Provisions of Qanun-e-Shahadat Order and Code of Civil Procedure not
+to apply
+35. Repeal and savings
+36. Repeal and validation
+SCHEDULE
+
+--- PAGE 3 ---
+
+TEXT
+THE PUNJAB RENTED PREMISES ACT 2009
+(VII of 2009)
+[17th November, 2009]
+An
+Act
+to regulate the relationship of landlord and tenant in respect of rented premises.
+Whereas it is expedient to regulate the relationship of landlord and tenant, to
+provide a mechanism for settlement of their disputes in an expeditious and cost
+effective manner and for connected matters;
+It is hereby enacted as follows:–
+CHAPTER I
+PRELIMINARY
+1. Short title, extent and commencement.– (1) This Act may be cited as the
+Punjab Rented Premises Act 2009.
+(2) It shall extend to the whole of the Punjab.
+(3) It shall come into force at once.
+2. Definitions.– In this Act:
+(a) “building” means a building or part thereof, together with all fixtures and
+fittings therein, if any, and includes any garage, garden, godown, out
+house and open space attached or appurtenant thereto, let out for
+residential or non residential purpose, whether actually being used for that
+purpose or not, but does not include a room in a hotel, hostel, boarding
+house, guest house or any place of religious worship;
+(b) “final order” means a final order passed by a Rent Tribunal culminating
+the proceedings including an order in respect of adjustment of pagri,
+advance rent, security, arrears of rent, compensation or costs but shall
+not include an order passed in an execution proceedings;
+(c) “Government” means the Government of the Punjab;
+(d) “landlord” means the owner of a premises and includes a person for
+the time being entitled or authorized to receive rent in respect of the
+premises;
+(e) “pagri” includes any amount received by a landlord at the time of grant or
+renewal of a tenancy except advance rent or security;
+1This Act was originally promulgated as Ordinance XXI of 2007; was given permanent life by PCO I of 2007; however, consequent
+upon the judgement of the Supreme Court of Pakistan dated 31 July 2009, this Ordinance was laid in the Punjab Assembly on 14
+October 2009; passed by it on 4 November 2009; assented to by the Governor of the Punjab on 14 November 2009; and, was
+published in the Punjab Gazette (Extraordinary), dated 17 November 2009, pages 1591-1598.
+
+--- PAGE 4 ---
+
+(f) “premises” means a building or rented land not being an agricultural
+land or land subservient to agriculture;
+(g) “prescribed” means prescribed by the rules made under the Act;
+(h) “rent” includes arrears of rent, a utility bill and any amount that may be
+payable by a tenant in relation to the tenancy;
+(i) “rented land” means any land or open space let out for the purpose of
+business or trade;
+(j) “Rent Tribunal” means a Rent Tribunal established under the Act;
+(k) “Special Judge (Rent)” means a Special Judge (Rent) appointed under
+the Act;
+(l) “tenant” means a person who undertakes or is bound to pay rent as
+consideration for the occupation of a premises by him or by any other
+person on his behalf and includes;
+(i) a person who continues to be in occupation of the premises
+after the termination of his tenancy for the purpose of a
+proceeding under this Act;
+(ii) legal heirs of a tenant in the event of death of the tenant who
+continue to be in occupation of the premises; and
+(iii) a sub-tenant who is in possession of the premises or part
+thereof with the written consent of the landlord; and
+(m) “tenancy agreement” means an agreement in writing by which a
+landlord lets out a premises to a tenant.
+3. Exemption.– The Government may, for reasons to be recorded in writing and by
+notification in the official Gazette, direct that all or any of the provisions of this Act shall
+not apply to any class of premises or to any premises in any specified area.
+4. Act to override other laws.– The provisions of this Act shall have effect
+notwithstanding anything contained in any other law for the time being in force.
+CHAPTER II
+CREATION OF TENANCY
+5. Agreement between landlord and tenant.– (1) A landlord shall not let out a
+premises to a tenant except by a tenancy agreement.
+(2) A landlord shall present the tenancy agreement before the Rent
+Registrar.
+(3) The Rent Registrar shall enter the particulars of the tenancy in a
+register, affix his official seal on the tenancy agreement, retain a copy thereof and
+return the original tenancy agreement to the landlord.
+
+--- PAGE 5 ---
+
+(4) The entry of particulars of the tenancy shall not absolve the landlord or
+the tenant of their liability to register the tenancy agreement under the law relating to
+registration of documents.
+(5) A tenancy agreement entered in the office of a Rent Registrar or a
+certified copy thereof shall be a proof of the relationship of landlord and tenant.
+(6) Any agreement which may be executed between the landlord and the
+tenant in respect of the premises shall be presented before the Rent Registrar in the
+same manner as provided in sub-section (2).
+6. Contents of tenancy agreement.– (1) A tenancy agreement shall contain, as
+far as possible, the following:
+(a) particulars of the landlord and the tenant;
+(b) description of the premises;
+(c) period of the tenancy;
+(d) rate of rent, rate of enhancement, due date and mode of payment of
+rent;
+(e) particulars of the bank account of the landlord, if the rent is to be paid
+through a bank;
+(f) the purpose for which the premises is let out; and
+(g) amount of advance rent, security or pagri, if any.
+(2) If the tenure of the tenancy is fixed but a rent is fixed only for a part of
+the tenure, in the absence of any stipulation to the contrary in the tenancy
+agreement, the rent shall be deemed to remain the same for the whole of the tenure.
+7. Payment of rent.– (1) A tenant shall pay or tender the rent to the landlord in the
+mode and by the date mentioned in the tenancy agreement.
+(2) If the date of payment is not mentioned in the tenancy agreement, a
+tenant shall pay or tender the rent not later than tenth day of the following month.
+(3) If the mode of payment is not mentioned in the tenancy agreement, a
+tenant shall pay or tender the rent to the landlord through money order or deposit in
+the bank account of the landlord.
+8. Existing tenancy.– An existing landlord and tenant shall, as soon as possible
+but not later than two years from the date of coming into force of this Act, bring the
+tenancy in conformity with the provisions of this Act.
+9. Effect of non-compliance.– If a tenancy does not conform to the provisions
+of this Act, the Rent Tribunal shall not entertain an application under this Act–
+(a) on behalf of the tenant, unless he deposits a fine equivalent to five
+percent of the annual value of the rent of the premises in the Government
+treasury; and
+(b) on behalf of the landlord, unless he deposits a fine equivalent to ten
+percent of the annual value of the rent of the premises in the
+Government treasury.
+
+--- PAGE 6 ---
+
+10. Effect of other agreement.– An agreement to sell or any other agreement
+entered into between the landlord and the tenant, after the execution of a tenancy
+agreement, in respect of premises and for a matter other than a matter provided
+under the tenancy agreement, shall not affect the relationship of landlord and tenant
+unless the tenancy is revoked through a written agreement entered before the Rent
+Registrar in accordance with the provisions of section 5.
+CHAPTER III
+OBLIGATIONS OF THE PARTIES AND GROUNDS FOR EVICTION
+11. Subletting.– A tenant shall not, without the prior written consent of the
+landlord, sublet the whole or a part of the premises, or transfer or assign a right
+under the tenancy.
+12. Obligations of landlord.– (1) A landlord shall–
+(a) provide a certified copy of the tenancy agreement to the tenant;
+(b) subject to the tenancy agreement, repair the premises as may be
+necessary to keep it in habitable condition or as may be required under
+a law for the time being in force; and
+(c) pay the tax, fee or charge levied on the premises under a law for the
+time being in force.
+(2) Subject to the tenancy agreement, a landlord shall not–
+(a) cut off, suspend or withhold, without just or sufficient cause, an
+amenity, utility or easement of the premises; and
+(b) enter the premises without giving the tenant a reasonable notice.
+(3) If a landlord neglects or fails to fulfill an obligation under this Act or the
+tenancy agreement, the tenant may file an application in the Rent Tribunal for an
+order directing the landlord to fulfill the obligation.
+(4) The Rent Tribunal may–
+(a) if a tenant has been in enjoyment of an amenity, utility or easement which
+has been cut off, suspended or withheld without just or sufficient cause,
+make an order directing the landlord to restore the amenity, utility or
+easement;
+(b) authorize a tenant to restore the amenity, utility or easement at his
+expense and defray the expenses allowed by the Rent Tribunal from the
+rent; and
+(c) if a landlord has failed to keep the premises in habitable condition, or to
+make necessary repairs, direct that such repairs may be made by the
+tenant at his expense and defray the expenses allowed by the Rent
+Tribunal from the rent.
+13. Obligations of tenant.– (1) Subject to the tenancy agreement, a tenant shall–
+(a) keep the premises in the condition in which it was let out except for
+normal wear and tear;
+(b) use the premises for the purpose for which it was let out;
+
+--- PAGE 7 ---
+
+(c) allow the landlord to enter the premises for the purpose of inspection or
+repair;
+(d) hand over the vacant possession of the premises to the landlord on the
+determination of tenancy;
+(e) not cause nuisance to the neighbours of the premises; and
+(f) not make a structural change in the premises without the prior written
+consent of the landlord.
+(2) If a tenant fails to fulfill an obligation under this Act or the tenancy
+agreement, the landlord may give notice in writing to the tenant specifying the act or
+omission and the remedial action to be taken by the tenant within a specified time.
+(3) A landlord may file an application to a Rent Tribunal for an order
+directing the tenant to fulfill the obligation or may seek eviction of the tenant.
+14. Reimbursement of expenses.– (1) If a landlord fails to pay a tax, fee or
+charge relating to the premises, the concerned authority may direct the tenant to pay
+the tax, fee or charge.
+(2) The tenant shall pay the tax, fee or charge relating to the premises and
+defray the amount from the rent or file an application against the landlord in the Rent
+Tribunal for the recovery of the amount of tax, fee or charge paid by him.
+15. Grounds for eviction.– A landlord may seek eviction of the tenant if–
+(a) the period of tenancy has expired;
+(b) the tenant has failed to pay or tender the rent within a period of thirty
+days after the expiry of the period stipulated in section 7;
+(c) the tenant has committed breach of a term or condition of the tenancy
+agreement;
+(d) the tenant has committed a violation of an obligation under section 13;
+(e) the tenant has used the premises for a purpose which is different from
+the purpose for which it has been let out; or
+(f) the tenant has sub-let the premises without the prior written consent of
+the landlord.
+CHAPTER IV
+ESTABLISHMENT OF RENT TRIBUNAL AND PROCEDURE
+16. Establishment of Rent Tribunal.– (1) The Government shall establish a Rent
+Tribunal in a district or an area as it may deem necessary.
+(2) A Rent Tribunal shall consist of one or more Special Judges (Rent) to
+be appointed by the Government in consultation with the Lahore High Court.
+(3) Subject to this Act, the Lahore High Court may empower a civil judge
+or a judicial magistrate to act as Rent Tribunal for a district or an area.
+(4) The Rent Tribunal shall exercise exclusive jurisdiction over a case under
+this Act.
+
+--- PAGE 8 ---
+
+(5) If there are more than one Special Judges (Rent) in a district or an area, a
+Special Judge (Rent) designated by the Lahore High Court shall act as an
+Administrative Special Judge (Rent) in the district or the area.
+17. Rent Registrar.– (1) The Government shall appoint a Rent Registrar in a
+district or an area as it may deem necessary.
+(2) The Rent Registrar shall maintain a register to enter particulars of a
+tenancy agreement, agreement to sell or any other agreement in respect of rented
+premises.
+18. Staff and establishment.– The Government may appoint staff of a Rent
+Tribunal to perform such functions as may be prescribed.
+19. Filing of application.– (1) An application in respect of a rented premises
+shall be filed in the Rent Tribunal of the area or the district.
+(2) If an application is filed under sub-section (1), the Administrative Special
+Judge (Rent) of the area or the district may take cognizance of the case or entrust the
+same to any other Special Judge (Rent).
+(3) An application under sub-section (1) shall contain a concise statement
+of facts, the relief claimed and shall be accompanied by copies of all relevant
+documents in possession of the applicant.
+(4) If the application is for eviction of a tenant, the landlord shall submit his
+affidavit and affidavits of not more than two witnesses along with the eviction application.
+20. Application for deposit of rent.– (1) Notwithstanding anything contained in this
+Act, if a landlord refuses to accept the rent, the tenant may file an application in the Rent
+Tribunal for deposit of the rent.
+(2) The Rent Tribunal shall, without prejudice to the rights of the landlord,
+allow the tenant to deposit the rent for the period for which the landlord has refused
+to receive the rent.
+(3) The Rent Tribunal shall inform the landlord of the deposit of rent by the
+tenant and may pass an order permitting the landlord to collect the same.
+21. Appearance of parties and consequences of non-appearance.– (1) If an
+application under this Act other than application for deposit of rent is filed, the Rent
+Tribunal shall issue notice to the respondent in the form prescribed in the Schedule, for
+appearance of the respondent on a date not later than ten days through process server,
+registered post acknowledgement due and courier service.
+(2) A notice under sub-section (1) shall be accompanied by copies of the
+application and the documents annexed with the application.
+(3) If the respondent fails to appear and the Rent Tribunal is satisfied that–
+(a) the notice has not been served on the respondent or the respondent is
+willfully avoiding the service of the notice, the Rent Tribunal may direct
+service of the notice by:
+(i) affixing a copy of the notice at some conspicuous part of the
+rented premises or residence of the respondent; or
+
+--- PAGE 9 ---
+
+(ii) publication in the press, electronic media or any other mode;
+and
+(b) the notice has been served, the Rent Tribunal may proceed ex-parte
+and pass the final order.
+(4) If an ex-parte order is passed against a respondent, the respondent
+may, within ten days from the date of knowledge, apply to the Rent Tribunal for
+setting aside the ex-parte order along with an application for leave to contest.
+(5) If the respondent shows a sufficient cause for his non appearance, the
+Rent Tribunal may set aside the ex-parte order on such terms as it may deems fit.
+(6) The parties may appear in person or through a recognized agent in the
+Rent Tribunal.
+(7) If on a date fixed, the applicant fails to appear, the Rent Tribunal may
+dismiss the application.
+(8) If an application has been dismissed in default of the appearance of an
+applicant and an application for restoration of the same is made within thirty days of
+the dismissal order, the Rent Tribunal may restore the application on such terms as it
+may deem appropriate.
+22. Leave to contest.– (1) A Rent Tribunal shall not allow a respondent to defend
+the application unless he obtains leave to contest.
+(2) Subject to this Act, a respondent shall file an application for leave to
+contest within ten days of his first appearance in the Rent Tribunal.
+(3) An application for leave to contest shall be in the form of a written
+reply, stating grounds on which the leave is sought and shall be accompanied by an
+affidavit of the respondent, copy of all relevant documents in his possession and, if
+desired, affidavits of not more than two witnesses.
+(4) The Rent Tribunal shall not allow leave to contest to a respondent
+unless the application discloses sufficient grounds for production of oral evidence.
+(5) The Rent Tribunal shall decide the application for leave to contest
+within a period of fifteen days from the date of its filing.
+(6) If the leave to contest is refused or the respondent has failed to file
+application for leave to contest within the stipulated time, the Rent Tribunal shall
+pass the final order.
+23. Written reply.– If the leave to contest is granted, the Rent Tribunal shall treat
+the application for leave to contest as a written reply.
+24. Payment of rent and other dues pending proceedings.– (1) If an eviction
+application is filed, the Rent Tribunal, while granting leave to contest, shall direct the
+tenant to deposit the rent due from him within a specified time and continue to deposit
+the same in accordance with the tenancy agreement or as may be directed by the Rent
+Tribunal in the bank account of the landlord or in the Rent Tribunal till the final order.
+(2) If there is a dispute as to the amount of rent due or rate of rent, the
+Rent Tribunal shall tentatively determine the dispute and pass the order for deposit
+of the rent in terms of sub-section (1).
+
+--- PAGE 10 ---
+
+(3) In case the tenant has not paid a utility bill, the Rent Tribunal shall
+direct the tenant to pay the utility bill.
+(4) If a tenant fails to comply with a direction or order of the Rent Tribunal,
+the Rent Tribunal shall forthwith pass the final order.
+25. Recording of evidence.– (1) At the time of grant of leave to contest, the Rent
+Tribunal shall direct a party to produce his evidence on a date fixed.
+(2) The Rent Tribunal shall treat an affidavit filed by a party as evidence
+and–
+(a) may, of its own motion, order the attendance of deponent for cross
+examination; and
+(b) shall, if so requested by a party, direct production of the deponent for
+cross examination.
+(3) The Rent Tribunal shall not grant more than two opportunities to a
+party for production of the evidence.
+(4) The Rent Tribunal shall not grant an adjournment for cross examination
+of a witness except for a sufficient cause and on payment of the costs to the witness
+as it may deem fit.
+(5) After recording the evidence of the parties, if any, and hearing the
+arguments, the Rent Tribunal shall pass the final order.
+26. Rent Tribunal to exercise powers of Civil Court.– (1) A Rent Tribunal may
+exercise the powers of a Civil Court to enforce the attendance of a person, compel
+the production of evidence, inspect a premises or issue commission for examination
+of a witness or local inspection.
+(2) A proceeding before a Rent Tribunal shall be deemed to be judicial
+proceedings and the Rent Tribunal shall be deemed to be a Civil Court within the
+meaning of sections 193 and 228 of the Pakistan Penal Code, 1860 (Act XLV of 1860)
+and sections 476 and 480 of the Code of Criminal Procedure, 1898 (Act V of 1898).
+(3) A Rent Tribunal may pass an interlocutory order at any stage of a
+proceeding before the final order.
+27. Period for disposal of application.– (1) The Rent Tribunal shall pass a final
+order on an application as expeditiously as possible but not latter than four months
+from the date of filing of the application.
+(2) If the final order is not passed on an application within the period of
+four months, the Rent Tribunal shall conduct the proceedings on day to day basis.
+28. Appeal.– (1) A person aggrieved by a final order may, within thirty days, prefer
+an appeal in writing to the District Judge of the district.
+(2) No appeal shall lie against an interlocutory order passed by a Rent
+Tribunal.
+(3) If an appeal under this section is preferred, the District Judge may hear
+and dispose of the same or entrust it for disposal to an Additional District Judge of
+the district or the area.
+
+--- PAGE 11 ---
+
+(4) The District Judge or the Additional District Judge may, after providing
+an opportunity of hearing to the appellant, dismiss the appeal without notice to the
+respondent.
+(5) The District Judge or the Additional District Judge may, where the
+circumstances so require, suspend the operation of the final order.
+(6) The District Judge or the Additional District Judge may exercise any or
+all the powers of a Rent Tribunal under this Act.
+(7) The District Judge or the Additional District Judge shall decide an
+appeal within a period of two months from the date of filing of the appeal.
+(8) No appeal shall lie against an order passed by a District Judge or an
+Additional District Judge under this Act.
+CHAPTER V
+MISCELLANEOUS
+29. General power of transfer.– (1) The District Judge of the district may, on the
+application of a party to the proceedings under this Act, and after notice to the other
+party, withdraw the proceedings pending before a Special Judge (Rent) or an
+Additional District Judge and transfer it, for disposal to any other Special Judge
+(Rent) or Additional District Judge competent to try and dispose of the same.
+(2) The Lahore High Court may, at any stage, withdraw an appeal pending
+under this Act before a District Judge or an Additional District Judge and transfer the
+same to any other Court competent to dispose of the same.
+30. Transfer of ownership.– (1) If the ownership of a rented premises has been
+transferred, the new owner shall send a written intimation of the transfer, by
+registered post or a courier service to the tenant and shall apply to the Rent
+Registrar for entering his name in the register as the landlord of the premises.
+(2) The Rent Registrar shall inform the tenant through a notice, at the
+expense of the landlord, about the transfer of ownership of the premises and the
+tenant shall not be deemed to have defaulted in the payment of the rent if the rent
+due is paid or tendered to the new landlord within a period of thirty days from the
+date when the notice should in normal course have reached the tenant.
+31. Execution of orders.– A Rent Tribunal shall execute an order passed under
+this Act by a Rent Tribunal or a District Judge or an Additional District Judge as a
+decree of a Civil Court and for this purpose, the Rent Tribunal may exercise any or
+all the powers of a Civil Court.
+32. Indemnity.– No suit or other legal proceedings shall lie against a Special
+Judge (Rent) or any person or authority acting under an order of the Special Judge
+(Rent) in respect of anything done or intended to be done in good faith under this
+Act.
+33. Power to make rules.– (1) The Government may, by notification in the official
+Gazette, make rules for carrying out the purposes of this Act.
+
+--- PAGE 12 ---
+
+(2) In particular and without prejudice to the generality of the foregoing
+power, the rules may prescribe a model tenancy agreement, a draft application form
+and a notice under this Act.
+34. Provisions of Qanun-e-Shahadat Order and Code of Civil Procedure not
+to apply.– Save as otherwise expressly provided under this Act, the provisions of
+the Qanun-e-Shahadat Order, 1984 (P.O. No.10 of 1984), and the Code of Civil
+Procedure, 1908 (Act V of 1908) shall not apply to the proceedings under this Act
+before a Rent Tribunal, District Judge or Additional District Judge.
+35. Repeal and savings.– (1) The Punjab Urban Rent Restriction Ordinance,
+1959 (VI of 1959), is hereby repealed.
+(2) Notwithstanding the repeal of the Ordinance VI of 1959–
+(a) a proceeding pending before a Rent Controller shall stand transferred to
+the Rent Tribunal of the district or the area and the same shall be decided
+by the Rent Tribunal in accordance with the provisions of the repealed
+Ordinance;
+(b) an appeal may be filed against an order passed under the repealed
+Ordinance in accordance with the provisions of the repealed Ordinance;
+(c) an appeal pending under the repealed Ordinance may be decided in
+accordance with the provisions of the repealed Ordinance; and
+(d) a Rent Controller appointed under the repealed Ordinance shall
+exercise and perform the functions of a Rent Tribunal and a Rent
+Registrar till the appointment of a Special Judge (Rent) and a Rent
+Registrar for the district or the area under this Act.
+36. Repeal and validation.– (1) The Punjab Rented Premises Ordinance 2007
+(XXI of 2007) is hereby repealed.
+(2) Notwithstanding anything contained in any law, anything done,
+proceedings or action taken, order or rule made, liability incurred or right acquired under
+the Ordinance XXI of 2007 or purported to have been done, taken, made, incurred or
+acquired under that Ordinance, from the date of promulgation of the Ordinance till the
+coming into force of this Act, shall be deemed to have been done, taken, made, incurred
+or acquired under this Act.
+
+--- PAGE 13 ---
+
+SCHEDULE
+{See sub-section (1) of section 21}
+(Name of the Rent Tribunal)
+(Title of the application)
+To
+___________________(Name, description and place of residence).
+Whereas_______________________ (name of the applicant) has filed application
+for __________________________ (nature of the application) against you under the
+Punjab Rented Premises Act, 2009 for ___________ (nature of the prayer), of which
+a copy is hereto annexed and is fixed for ____________ (date).
+You are hereby directed to obtain leave to contest the application from the
+Rent Tribunal described above within ten days of the date of hearing/appearance
+mentioned above. In default whereof, the Rent Tribunal may pass a final order in
+favour of the applicant.
+Leave to contest may be obtained on an application in the form of written reply
+and specifying a ground(s) on which the leave is sought, accompanied by your affidavit
+and, copies of all the relevant documents in your possession and, if so desired,
+affidavits of not more than two witnesses.
+Given under my hand and the seal of the Rent Tribunal on this _______ day
+of __________.
+Special Judge (Rent)

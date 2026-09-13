@@ -1,0 +1,608 @@
+
+
+--- PAGE 1 ---
+
+THE PUNJAB CONSUMER PROTECTION ACT 2005
+(II of 2005)
+CONTENTS
+PART I
+PRELIMINARY
+1. Short title, and commencement
+2. Definitions
+3. Act not in derogation of any other law
+PART II
+LIABILITY ARISING FROM DEFECTIVE PRODUCTS
+4. Liability for defective products
+5. Defective in construction or composition
+6. Defective in design
+7. Defective because of inadequate warning
+8. Defective because of non-conformity to express warranty
+9. Proof of manufacturer’s knowledge
+10. Restriction on grant of damages
+11. Duty of disclosure
+12. Prohibition on exclusions from liability
+PART III
+LIABILITY ARISING OUT OF DEFECTIVE AND FAULTY SERVICES
+13. Liability for faulty or defective services
+14. Standard of provision of services
+15. Restriction on grant of damages
+16. Duty of disclosure
+17. Prohibition on exclusions from liability
+PART IV
+OBLIGATIONS OF MANUFACTURERS
+
+--- PAGE 2 ---
+
+18. Prices to be exhibited at the business place
+19. Receipt to be issued to the purchaser
+20. Return and refund policy
+PART V
+UNFAIR PRACTICES
+21. False, deceptive or misleading representation
+22. Prohibition on bait advertisement
+PART VI
+THE POWERS OF THE AUTHORITY
+23. Powers of Authority
+23-A. Powers of Government
+PART VII
+CONSUMER PROTECTION COUNCIL
+24. Consumer Protection Council
+PART VIII
+DISPOSAL OF CLAIMS AND ESTABLISHMENT OF CONSUMER COURTS
+25. Filing of Claims
+26. Consumer Courts
+27. Jurisdiction of Consumer Courts
+28. Settlement of Claims
+29. Settlement at pretrial stage
+30. Procedure on receipt of complaint
+31. Order of Consumer Court
+32. Penalties
+33. Appeal
+34. Finality of Order
+35. Dismissal of frivolous or vexatious claims
+PART IX
+MISCELLANEOUS
+
+--- PAGE 3 ---
+
+36. Aid to the Consumer Court
+37. Immunity
+38. Power to make rules
+39. Power to remove difficulties
+
+--- PAGE 4 ---
+
+TEXT
+1THE PUNJAB CONSUMER PROTECTION ACT 2005
+(II of 2005)
+[25th January, 2005]
+An
+Act
+to provide for protection and promotion of the rights and interests of the consumers.
+Preamble.– Whereas, it is expedient to provide for protection and promotion of the
+rights and interests of the consumers, speedy redress of consumer complaints and for
+matters connected therewith;
+It is hereby enacted as follows:–
+PART I
+PRELIMINARY
+1. Short title, extent and commencement.– (1) This Act may be called the
+Punjab Consumer Protection Act 2005.
+(2) It shall extend to the whole of the Province of the Punjab.
+(3) It shall come into force at once.
+2. Definitions.– In this Act, unless there is anything repugnant in the subject or
+context,–
+(a) “Act” means the Punjab Consumer Protection Act 2005;
+2[(b) “Authority” means the officer as provided in sub-section (1) of section
+23 of the Act;]
+(c) “consumer” means a person or entity who–
+(i) buys or obtains on lease any product for a consideration and
+includes any user of such product but does not include a person
+who obtains any product for resale or for any commercial
+purpose; or
+(ii) hires any services for a consideration and includes any
+beneficiary of such services;
+3[Explanation: for the purposes of sub-clauses (i) and (ii):
+(a) the expression “buys or obtains on lease any product” and
+“hires any services” includes offline or online transactions
+1This Act was passed by the Punjab Assembly on 13 January 2005; assented to by the Governor of the Punjab on 19 January
+2005; and, was published in the Punjab Gazette (Extraordinary), dated: 25 January 2005, pp. 2565 to 2573.
+2Substituted by the Punjab Consumer Protection (Amendment) Act 2025 (LIV of 2025), published in the Punjab Gazette
+(Extraordinary), dated: 25 June 2025, pp. 5233-5234, s. 2(i).
+3Substituted by the Punjab Consumer Protection (Amendment) Act 2025 (LIV of 2025), published in the Punjab Gazette
+(Extraordinary), dated: 25 June 2025, pp. 5233-5234, s. 2(ii).
+
+--- PAGE 5 ---
+
+through electronic means or teleshopping or direct selling or
+multi-level marketing; and
+(b) the expression “commercial purpose” does not include use by
+a consumer of products bought and used by him only for the
+purpose of his livelihood as a self-employed person.]
+(d) “damage” means all damage caused by a product or service including
+damage to the product itself and economic loss arising from a deficiency
+in or loss of use of the product or service;
+(e) “entity” means an organization that has a legal identity apart from its
+members;
+(f) “Government” means the Government of the Punjab;
+(g) “laboratory” means a laboratory established or recognized by the
+Provincial Consumer Protection Council and includes any such laboratory
+or organization established by or under any law for the time being in force,
+which is maintained, financed, aided or recognized by the Government for
+carrying out analysis or test of any goods with a view to determining
+whether such goods suffer from any defect;
+(h) “manufacturer” includes a person or entity who–
+(i) is in the business of manufacturing a product for purposes of
+trade or commerce;
+(ii) labels a product as his own or who otherwise presents himself
+as the manufacturer of the product;
+(iii) as a seller exercises control over the design, construction or
+quality of the product that causes damage;
+(iv) assembles a product by incorporating into his product a component
+or part manufactured by another manufacturer; and
+(v) is a seller of a product of a foreign manufacturer and assumes or
+administers warranty obligations of the product, or is affiliated
+with the foreign manufacturer by way of partial or complete
+ownership or control; or modifies or prepares the product for sale
+or distribution;
+(i) “manufacturing a product” means producing, fabricating, constructing,
+designing, remanufacturing, reconditioning or refurbishing a product;
+(j) “product” has the same meaning as assigned to the word “goods” in the
+Sale of Goods Act, 1930, and includes products which have been
+subsequently incorporated into another product or an immovable but
+does not include animals or plants or natural fruits and other raw
+products, in their natural state, that are derived from animals or plants;
+(k) “services” includes the provision of any kind of facilities or advice or
+assistance such as provision of medical, legal or engineering services
+but does not include–
+(i) the rendering of any service under a contract of personal
+service;
+
+--- PAGE 6 ---
+
+(ii) the rendering of non-professional services like astrology or
+palmistry; or
+(iii) a service, the essence of which is to deliver judgment by a court
+of law or arbitrator;
+(l) “reasonably anticipated alteration or modification” means a change in a
+product that a product manufacturer should reasonably expect to be
+made by an ordinary person in the same or similar circumstances and a
+change arising from ordinary wear or tear, but does not include–
+(i) changes to or in a product because the product does not receive
+reasonable care and maintenance; or
+(ii) alteration, modification or removal of an otherwise adequate
+warning; or
+(iii) the failure of the seller to provide an adequate warning to the
+consumer where the same had been provided by the
+manufacturer and he could do no more; and
+(m) “reasonably anticipated use” means a use or handling of a product that the
+product manufacturer should reasonably expect of an ordinary person in
+the same or similar circumstances.
+3. Act not in derogation of any other law.– The provisions of this Act shall be in
+addition to and not in derogation of the provisions of any other law for the time being in
+force.
+PART II
+LIABILITY ARISING FROM DEFECTIVE PRODUCTS
+4. Liability for defective products.– (1) The manufacturer of a product shall be
+liable to a consumer for damages proximately caused by a characteristic of the
+product that renders the product defective when such damage arose from a
+reasonably anticipated use of the product by a consumer.
+(2) A product shall be defective only if–
+(a) it is defective in construction or composition as provided in section 5;
+(b) it is defective in design as provided in section 6;
+(c) it is defective because an adequate warning has not been given as
+provided in section 7; and
+(d) it is defective because it does not conform to an express warranty of
+the manufacturer as provided in section 8.
+5. Defective in construction or composition.– A product shall be defective in
+construction or composition if, at the time the product was manufactured, a material
+deviation was made from the manufacturers’ own specifications, whether known to the
+consumer or not.
+6. Defective in design.– (1) A product shall be defective in design if, at the time
+the product left its manufacturer’s control–
+
+--- PAGE 7 ---
+
+(a) there existed an alternative design for the product that was capable of
+preventing the damage to a consumer; and
+(b) the likelihood and gravity of damage outweighed the burden on the
+manufacturer of adopting such alternative design and any adverse effect of
+such alternative design on the utility of the product.
+(2) When the manufacturer has used reasonable care to provide adequate
+warning to the users or handlers of the product, it shall be considered in evaluating
+the likelihood of damage arising from the design of a product.
+7. Defective because of inadequate warning.– (1) A product shall be defective if
+an adequate warning about the product that it possessed a characteristic that could
+cause damage, has not been provided at the time the product left its manufacturer’s
+control or the manufacturer has failed to use reasonable care to provide an adequate
+warning of such characteristic and its danger to users and handlers of the product:
+Provided that a manufacturer shall not be required to provide an adequate
+warning about his product when–
+(a) the ordinary user or handler of the product could know, with the
+ordinary knowledge common to the community, that the product has
+dangerous characteristics which could cause damage; or
+(b) the user or handler of the product already knows or should be
+reasonably expected to know that the product has characteristics which
+were dangerous and could cause damage.
+(2) A manufacturer of a product who, after the product has left his control,
+acquires knowledge about the dangerous characteristics of the product that could
+cause damage, or who would have acquired such knowledge had he acted as a
+reasonably prudent manufacturer, shall be liable for damage caused by his
+subsequent failure to use reasonable care to provide an adequate warning of such
+characteristic and its danger to users and handlers of the product.
+8. Defective because of non-conformity to express warranty.– A product
+shall be defective when it does not conform to an express warranty made at any time
+by the manufacturer about the product if the express warranty has induced the
+claimant to use the product and the claimant’s damage was proximately caused
+because the express warranty was untrue.
+9. Proof of manufacturer’s knowledge.– (1) Notwithstanding anything contained
+in section 6, a manufacturer of a product shall not be liable for damage proximately
+caused by a characteristic of product’s design if the manufacturer proves that at the time
+the product left his control–
+(a) he did not know and, in the light of the then existing and reasonably
+available scientific and technological knowledge, could not have known
+the design characteristic that caused the damage or the danger of such
+characteristic; or
+(b) he did not know and, in the light of the then existing and reasonably
+available scientific and technological knowledge, could not have known
+of the alternative design identified by the consumer under section 6 (1);
+or
+
+--- PAGE 8 ---
+
+(c) the alternative design identified by the consumer under section 6 (1) was
+not feasible in the light of the then existing and reasonably available
+scientific and technological knowledge or then existing economic
+practicality.
+(2) Notwithstanding anything contained in section 7(1) or 7(2), a manufacturer
+of a product shall not be liable for damage if the manufacturer proves that, at the time
+the product left his control, he did not know and, in the light of the then existing and
+reasonably available scientific and technological knowledge, could not have known of
+the characteristic that caused the damage or the danger of such characteristic.
+10. Restriction on grant of damages.– Where the consumer has not suffered
+any damage from the product except the loss of utility, the manufacturer shall not be
+liable for any damages except a return of the consideration or a part thereof and the
+costs.
+11. Duty of disclosure.– (1) Where the nature of the product is such that the
+disclosure of its component parts, ingredients, quality, or date of manufacture and
+expiry is material to the decision of the consumer to enter into a contract for sale, the
+manufacturer shall disclose the same.
+(2) Notwithstanding anything contained in sub-section (1), the Government
+may, by general or special order, require such disclosure in any particular case.
+12. Prohibition on exclusions from liability.– The liability of a person by virtue of
+this part to a consumer who has suffered damage shall not be limited or excluded by the
+terms of any contract or by any notice.
+PART III
+LIABILITY ARISING OUT OF DEFECTIVE AND FAULTY SERVICES
+13. Liability for faulty or defective services.– A provider of services shall be
+liable to a consumer for damages proximately caused by the provision of services
+that have caused damage.
+14. Standard of provision of services.– (1). Where the standard of provision of
+a service is regulated by a special law, provincial or federal, the standard of services
+shall be deemed to be the standard laid down by such special law.
+(2) Where the standard of a service has not been provided for in any law or
+by the professional or trade body concerned, the standard shall be that which at the
+time of the provision of the service, a consumer could reasonably expect to obtain at
+that time in Pakistan.
+15. Restriction on grant of damages.– Where the consumer has not suffered
+any damages from the provision of service except lack of benefit, the service provider
+shall not be liable for any damages except a return of the consideration or a part
+thereof and the costs.
+16. Duty of disclosure.– (1) Where the nature of the service is such that the
+disclosure of the capabilities or qualifications of the provider of the service or the
+quality of the products that he intends to use for provision of the service is material to
+
+--- PAGE 9 ---
+
+the decision of the consumer to enter into a contract for provision of services, the
+provider of services shall disclose the same.
+(2) Notwithstanding anything contained in sub-section (1), the Government
+may, by general or special order, require such disclosure in any case.
+17. Prohibition on exclusions from liability.– The liability of a person by virtue of
+this Part to a person who has suffered damage shall not be limited or excluded by the
+terms of any contract or by any notice.
+PART IV
+OBLIGATIONS OF MANUFACTURERS
+18. Prices to be exhibited at the business place.– Unless a price catalogue is
+available for issue to customer, the manufacturer or trader shall display prominently in
+his shop or display-centre a notice specifying the retail or wholesale price, as the case
+may be, of every goods available for sale in that shop or display-centre.
+19. Receipt to be issued to the purchaser.– Every manufacturer or trader who
+sells any goods shall issue to the purchaser a receipt showing–
+(a) the date of sale;
+(b) description of goods sold;
+(c) the quantity and price of the goods; and
+(d) the name and address of the seller.
+20. Return and refund policy.– Return and refund policy of a seller shall be
+disclosed to the buyer clearly before the transaction is completed by means of a sign
+at the point of purchase.
+PART V
+UNFAIR PRACTICES
+21. False, deceptive or misleading representation.– No person shall make a
+false, deceptive or misleading representation that–
+(a) the products are of a particular kind, standard, quality, grade, quantity,
+composition, style or model;
+(b) the products have particular history or particular previous use;
+(c) the services are of a particular kind, standard or quality;
+(d) the services are provided by a person having a requisite skill or
+qualification or experience;
+(e) the products were manufactured, produced, processed or reconditioned
+at a particular time;
+(f) the products or services have any sponsorship, approval, endorsement,
+performance, characteristics, accessories, uses or benefits;
+(g) the products are new or reconditioned or have been in use for a
+particular period of time only;
+
+--- PAGE 10 ---
+
+(h) the seller or producer of products or provider of services has any
+sponsorship, approval, endorsement or affiliation;
+(i) the products or services are necessary for somebody’s well being;
+(j) concerns the existence, exclusion or effect of any condition, guarantee,
+right or remedy; and
+(k) concerns the place of origin of products.
+22. Prohibition on bait advertisement.– (1) No person shall, in trade, advertise
+or supply at a specified price products or services which that person–
+(a) does not intend to offer for supply; or
+(b) does not have reasonable grounds for believing that they can be supplied
+at that price for a period that is, and in quantities that are, reasonable
+having regard to the nature of the market in which the person carries on
+business and the nature of the advertisement.
+(2) Any person who has advertised products or services for supply at a
+specified price shall offer such products or services for supply at that price for a period
+that is, and in quantities that are reasonable having regard to the nature of the market in
+which the person carries on business and the nature of the advertisement.
+PART VI
+THE POWERS OF THE AUTHORITY
+23. Powers of Authority.– 4[(1) The Deputy Commissioner of a concerned district
+or any other officer, as may be notified in the official Gazette by the Government, on
+its own motion or on a complaint filed to him, in writing, by any person, against the
+violation of the provisions of sections 11, 16, 18 and 19 of the Act, may, after having
+been satisfied and after affording an opportunity of being heard, impose a fine on the
+violator which may extend to one hundred thousand rupees, but shall not be less
+than one thousand rupees or equal to hundred percent value of the product or
+service, whichever is lesser, which may be recoverable as arrears of land revenue.]
+(2) The Authority may file a claim for declaring a product defective under
+sections 4, 5, 6, 7 or 8 or a service as faulty or defective under section 13 without
+proof of any damage actually suffered by a consumer but likely to be suffered
+keeping in view the general standard of that service.
+(3) The Authority may file a claim before the Consumer Court for declaring
+any act on the part of any person as being in contravention to Part IV of this Act
+without proof of any damage actually suffered but likely to be suffered due to the said
+contravention.
+(4) The Authority on receipt of a complaint or a reference from the Consumer
+Protection Council or on his own motion, may hold an inquiry as to defects in products or
+services or practices which contravene any of the provisions of this Act. No prior notice
+shall be required to be given to a manufacturer or provider of services for the purposes of
+holding an inquiry.
+4Substituted by the Punjab Consumer Protection (Amendment) Act 2025 (LIV of 2025), published in the Punjab Gazette
+(Extraordinary), dated: 25 June 2025, pp. 5233-5234, s. 3.
+
+--- PAGE 11 ---
+
+(5) The Authority, while holding an inquiry, may direct the police or any other
+officer or authority of the Government to gather such evidence as it deems necessary or
+to perform function in accordance with law which have an impact on the inquiry.
+(6) The Authority may delegate his powers under this Act through a
+notification to any officer of the Government with its prior approval.
+(7) Any person aggrieved by the order passed under sub-section (1) may file
+an appeal before the Government within thirty days of such order.
+5[23-A. Powers of Government.– (1) The Government may, by general or special
+order and subject to such conditions as may be prescribed, exercise all or any of the
+powers conferred upon the Authority under this Act except the power of imposition of
+fine under section 23(1).
+(2) The Government may, from time to time, issue directions to the Authority
+with regard to the performance of the functions of the Authority under this Act.
+(3) The Government may, at any stage, modify or set aside any order or
+action of the Authority subject to such condition or conditions as it may deem fit.]
+PART VII
+CONSUMER PROTECTION COUNCIL
+24. Consumer Protection Council.– (1) The Government shall set up a
+Consumer Protection Council in the Province.
+(2) The Government may set up Consumer Protection Councils in one or
+more districts which shall report to the Provincial Consumer Protection Council.
+(3) The Consumer Protection Councils shall have such other functions as
+may be assigned to them by the Government by notification in the official Gazette.
+(4) The Provincial Consumer Protection Council shall gather such
+information and data as may be necessary in order to remove unreasonably
+dangerous products and faulty and defective services from trade or commerce.
+(5) Each Consumer Protection Council shall have an adequate
+representation of consumers and associations of trade, industry and services, as the
+case may be, duly registered under the law for the time being in force; provided that the
+representation of consumers on the Council, other than any ex-officio members, shall
+not be less than fifty per cent of its total membership.
+PART VIII
+DISPOSAL OF CLAIMS AND ESTABLISHMENT OF CONSUMER COURTS
+25. Filing of Claims.– A claim for damages arising out of contravention of any
+provisions of this Act shall be filed before a Consumer Court set up under this Act.
+5Inserted by the Punjab Consumer Protection (Amendment) Act 2006 (XI of 2006), published in the Punjab Gazette
+(Extraordinary), dated: 17 October 2006, pp. 1383-1384, s. 3.
+
+--- PAGE 12 ---
+
+6[26. Consumer Courts.– (1) The Lahore High Court shall, by notification,
+designate a District Judge or an Additional District Judge in each district, having
+specific area of jurisdiction, as Consumer Court to try cases under the Act:
+Provided that the Lahore High Court may notify one or more such Courts in
+a district and in case of more than one Consumer Courts in a district, the senior
+judge of such Courts shall act as the administrative judge of the Consumer Courts
+in that district.
+(2) All cases pending in the defunct Consumer Courts before the
+commencement of the Punjab Consumer Protection (Amendment) Act 2025 shall
+stand transferred to the Consumer Courts of respective specific areas, designated
+under sub-section (1), which may continue the proceedings from the point where
+it were left or may take additional evidence if so required.
+(3) All employees of the defunct Consumer Courts shall stand
+transferred to their parent Department.]
+27. Jurisdiction of Consumer Courts.– Subject to the provisions of this Act, the
+Consumer Court shall have jurisdiction to entertain complaints within the local limits
+of whose jurisdiction–
+(a) the defendant or each of the defendants, where there are more than one,
+at the time of filing of the claim, actually and voluntarily resides or carries
+on business or personally works for gain; or
+(b) any of the defendants where there are more than one, at the time of the
+filing of the claim, actually and voluntarily resides, or carries on
+business, or personally works for gain; provided that in such a case the
+permission is granted by the Consumer Court or the defendants who do
+not reside, or carry on business, or personally work for gain, as the
+case may be, acquiesce in such institution; or
+(c) the cause of action wholly or in part arises.
+28. Settlement of Claims.– (1) A consumer who has suffered damage, or
+Authority in other cases, shall, by written notice, call upon a manufacturer or provider
+of services that a product or service is defective or faulty, or the conduct of the
+manufacturer or service provider is in contravention of the provisions of this Act and
+he should remedy the defects or give damages where the consumer has suffered
+damage, or cease to contravene the provisions of this Act.
+(2) The manufacturer or service provider shall, within fifteen days of the
+receipt of the notice, reply thereto.
+(3) No claim shall be entertained by a Consumer Court unless the
+consumer or the Authority has given notice under sub-section (1) and provides proof
+that the notice was duly delivered but the manufacturer or service provider has not
+responded thereto.
+6Substituted by the Punjab Consumer Protection (Amendment) Act 2025 (LIV of 2025), published in the Punjab Gazette
+(Extraordinary), dated: 25 June 2025, pp. 5233-5234, s. 4.
+
+--- PAGE 13 ---
+
+(4) A claim by the consumer or the Authority shall be filed within thirty days
+of the arising of the cause of action:
+Provided that the Consumer Court, having jurisdiction to hear the claim, may
+allow a claim to be filed after thirty days within such time as it may allow if it is satisfied
+that there was sufficient cause for not filing the complaint within the specified period:
+Provided further that such extension shall not be allowed beyond a period of
+sixty days from the expiry of the warranty or guarantee period specified by the
+manufacturer or service provider and if no period is specified one year from the date
+of purchase of the products or providing of services.
+29. Settlement at pretrial stage.– Any party to the dispute may, at the pretrial stage,
+make a firm written offer of settlement stating the amount offered for settlement and if
+the offer is accepted by the opposing party, the Consumer Court shall pass an order in
+terms of the settlement:
+Provided that notwithstanding anything contained in any other law for the time
+being in force, the party refusing the offer of settlement shall pay actual costs of
+litigation, including lawyer’s fees, in case the final order of the Consumer Court is
+passed against that party:
+Provided further that the court’s approval regarding settlement shall be
+required in the following matters–
+(i) claims of a minor;
+(ii) claims of a legally incapacitated person; and
+(iii) claims involving collective rights.
+30. Procedure on receipt of complaint.– (1) The Consumer Court shall, on
+receipt of a claim if it relates to any products,–
+(a) forward a copy of the claim to the defendant mentioned in the claim
+directing him to file his written statement within a period of fifteen days or
+such extended period not exceeding fifteen days;
+(b) where the defendant, on receipt of claim referred to him under clause (a),
+denies or disputes the allegations contained in the claim, or omits or fails
+to present his case within the time specified, as the case may be, the
+Consumer Court shall proceed to settle the consumer dispute in the
+manner specified hereafter;
+(c) where the claim alleges that products are defective and do not conform
+to the accepted industry standards, the Consumer Court may decide
+the dispute on the basis of the evidence relating to the accepted
+industry standards and by inviting expert evidence in this regard;
+(d) where the dispute cannot be determined without proper analysis or test
+of products, the Consumer Court shall obtain sample of the products
+from the complainant, seal it and authenticate it in the manner
+prescribed and refer the sample to a laboratory along with a direction to
+make analysis or test, whichever may be necessary, with a view to
+finding out if such products suffer from any defect and to report its
+findings to the Consumer Court within a period of thirty days of the
+
+--- PAGE 14 ---
+
+receipt of the reference or within such period as may be extended, not
+exceeding fifteen days by the Consumer Court; and
+(e) the Consumer Court may require the claimant to deposit to the credit of the
+Consumer Court such fees as may be specified, for payment to the
+laboratory for carrying out the necessary analysis or test and the fee so
+deposited by the claimant shall be payable by the defendant if the test or
+analysis support the version of the claimant.
+(2) The Consumer Court shall, if the claim relates to any services,–
+(a) forward a copy of such claim to the defendant directing him to file his
+written statement within a period of fifteen days or such extended
+period not exceeding fifteen days as may be granted by the Consumer
+Court; and
+(b) on receipt of the written statement of the defendant, if any, under
+clause (a), proceed to settle the dispute on the basis of evidence
+produced by both the parties:
+Provided that if the defendant does not deny or dispute the allegations made
+in the complaint or fails to present his case within the specified period, the dispute
+shall be settled on the basis of the evidence brought by the claimant.
+(3) For the purposes of this section, the Consumer Court shall have the
+same powers as are vested in civil court under the Code of Civil Procedure, 1908
+(Act XX of 1908), while trying a suit, in respect of the following matters, namely:–
+(a) the summoning and enforcing attendance of any defendant or witness
+and examining him on oath;
+(b) the discovery and production of any document or other material object
+which may be produced as evidence;
+(c) the receiving of evidence on affidavits;
+(d) issuing of any commission for the examination of any witness; and
+(e) any other matter which may be prescribed.
+(4) Every proceeding before the Consumer Court shall be deemed to be a
+judicial proceeding within the meaning of sections 193 and 228 of the Pakistan Penal
+Code 1860 (Act XLV of 1860), and section 195 and Chapter XXXV of the Code of
+Criminal Procedure, 1898 (Act V of 1898):
+Provided that the personal presence of the claimant before the Consumer
+Court shall not be required till the defendant has put up appearance before it.
+(5) The Consumer Court shall decide the claim within six months after the
+service of summons on the respondent.
+31. Order of Consumer Court.– If, after the proceedings conducted under this Act,
+the Consumer Court is satisfied that the products complained against suffer from any of
+the defects specified in the claim or that any or all of the allegations contained in the
+claim about the services provided are true, it shall issue an order to the defendant
+directing him to take one or more of the following actions, namely:–
+(a) to remove defect from the products in question;
+
+--- PAGE 15 ---
+
+(b) to replace the products with new products of similar description which
+shall be free from any defect;
+(c) to return to the claimant the price or, as the case may be, the charges
+paid by the claimant;
+(d) to do such other things as may be necessary for adequate and proper
+compliance with the requirements of this Act;
+(e) to pay reasonable compensation to the consumer for any loss suffered
+by him due to the negligence of the defendant;
+(f) to award damages where appropriate;
+(g) to award actual costs including lawyers’ fees incurred on the legal
+proceedings;
+(h) to recall the product from trade or commerce;
+(i) to confiscate or destroy the defective product;
+(j) to remedy the defect in such period as may be deemed fit; or
+(k) to cease to provide the defective or faulty service until it achieves the
+required standard.
+32. Penalties.– (1) Where a manufacturer fails to perform or in any way infringes the
+liabilities provided in sections 4 to 8, 11, 13, 14, 16, 18 to 22, he shall be punished with
+imprisonment which may extend to two years or with fine which may extend to hundred
+thousand rupees or with both in addition to damages or compensation as may be
+determined by the court.
+(2) Where a defendant or the claimant fails or omits to comply with any order
+made by the Consumer Court, such defendant or the claimant shall be punishable with
+imprisonment for a term not less than one month which may extend to three years, or
+with fine not less than five thousand rupees which may extend to twenty thousand
+rupees or with both.
+33. Appeal.– Any person aggrieved by any final order of the Consumer Court may
+file an appeal in the Lahore High Court within 30 days of such order.
+34. Finality of Order.– Every order of the Consumer Court, if no appeal has been
+preferred against such order under the provisions of this Act, shall become final.
+35. Dismissal of frivolous or vexatious claims.– Where a claim is found to be
+frivolous or vexatious, the Consumer Court shall dismiss the claim and impose fine
+on the claimant up to an amount not exceeding ten thousand rupees for having
+willfully instituted a false claim and shall award appropriate compensation to the
+defendant from the amount of fine so realized.
+PART IX
+MISCELLANEOUS
+36. Aid to the Consumer Court.– All agencies of the Government shall act in aid
+of the Consumer Court in the performance of its functions under this Act.
+
+--- PAGE 16 ---
+
+37. Immunity.– No suit, prosecution or other legal proceedings shall lie against any
+functionary under this Act, acting under the direction of the Consumer Council or the
+Government for anything which is in good faith done or intended to be done under this
+Act.
+38. Power to make rules.– The Government may, by notification in the official
+Gazette, make rules for carrying out the purposes of this Act.
+39. Power to remove difficulties.– If any difficulty arises in giving effect to any of
+the provisions of this Act, the Government may make such order, not inconsistent
+with the provisions of this Act, as may appear to it to be necessary or expedient for
+removing such difficulty.

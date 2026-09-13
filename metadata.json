@@ -1,0 +1,65 @@
+[
+  {
+    "law_name": "Punjab Rented Premises Act 2009",
+    "category": "tenant",
+    "jurisdiction": "Punjab",
+    "year": 2009,
+    "processed_file": "data/processed/punjab_rented_premises_act_2009_clean.txt"
+  },
+  {
+    "law_name": "Punjab Consumer Protection Act 2005",
+    "category": "consumer",
+    "jurisdiction": "Punjab",
+    "year": 2005,
+    "processed_file": "data/processed/punjab_consumer_protection_act_2005_clean.txt"
+  },
+  {
+    "law_name": "Punjab Minimum Wages Act 2019",
+    "category": "labor",
+    "jurisdiction": "Punjab",
+    "year": 2019,
+    "processed_file": "data/processed/punjab_minimum_wages_act_2019_clean.txt"
+  },
+  {
+    "law_name": "Punjab Shops and Establishments Ordinance 1969",
+    "category": "labor",
+    "jurisdiction": "Punjab",
+    "year": 1969,
+    "processed_file": "data/processed/punjab_shops_and_establishments_ordinance_1969_clean.txt"
+  },
+  {
+    "law_name": "Muslim Family Laws Ordinance 1961",
+    "category": "family",
+    "jurisdiction": "Federal",
+    "year": 1961,
+    "processed_file": "data/processed/muslim_family_laws_ordinance_1961_clean.txt"
+  },
+  {
+    "law_name": "Code of Criminal Procedure 1898",
+    "category": "criminal",
+    "jurisdiction": "Federal",
+    "year": 1898,
+    "processed_file": "data/processed/code_of_criminal_procedure_1898_clean.txt"
+  },
+  {
+    "law_name": "West Pakistan Urban Rent Restriction Ordinance 1959",
+    "category": "tenant",
+    "jurisdiction": "Khyber Pakhtunkhwa",
+    "year": 1959,
+    "processed_file": "data/processed/west_pakistan_urban_rent_restriction_ordinance_1959_clean.txt"
+  },
+  {
+    "law_name": "Sind Rented Premises Ordinance 1979",
+    "category": "tenant",
+    "jurisdiction": "Sindh",
+    "year": 1979,
+    "processed_file": "data/processed/sind_rented_premises_ordinance_1979_clean.txt"
+  },
+  {
+    "law_name": "Payment of Wages Act 1936",
+    "category": "labor",
+    "jurisdiction": "Federal",
+    "year": 1936,
+    "processed_file": "data/processed/payment_of_wages_act_1936_clean.txt"
+  }
+]

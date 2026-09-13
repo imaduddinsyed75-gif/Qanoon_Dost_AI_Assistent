@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Qanoon Dost AI — requirements.txt
+# Streamlit Community Cloud compatible.
+# Pin only what matters; let pip resolve sub-dependencies.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core ML / embeddings
+numpy>=1.24,<3
+sentence-transformers>=2.7,<4          # loads all-MiniLM-L6-v2
+
+# PDF extraction (user-document tab)
+pdfplumber>=0.10,<1
+
+# LLM providers
+google-genai>=1.0,<2                   # Gemini (primary)
+groq>=0.9,<1                           # Groq / LLaMA (fallback)
+
+# Phase 8: Live Web Search via Tavily (free tier)
+tavily-python>=0.5,<1
+
+# App framework
+streamlit>=1.35,<2
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NOTE: Do NOT include torch, torchvision, or transformers here.
+# sentence-transformers will pull in a CPU-only torch wheel automatically.
+# Listing torch explicitly causes version-conflict errors on Streamlit Cloud.
+#
+# Do NOT include python-dotenv here either — it is only needed locally.
+# Streamlit Cloud reads secrets from st.secrets, not .env files.
+# ─────────────────────────────────────────────────────────────────────────────
